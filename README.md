@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" src="documentation/fc_icon.jpg">
 
-# TricityTravel
+# FileCrossbar
 
 ## 1. Specyfikacja wymagań
 ### 1.1. Opis systemu
